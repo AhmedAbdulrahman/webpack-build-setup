@@ -1,0 +1,20 @@
+{
+  "name": "webpack-build-setup",
+  "version": "1.0.0",
+  "description": "Webpack 3 Development & Build Setup to Kick of Development Speed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedAbdulrahman/webpack-build-setup.git"
+  },
+  "keywords": ["frontend", "JS", "wepback", "build", "web", "development"],
+  "author": "Ahmed Abdulrahman <a.kasapbashi@gmail.com> (https://github.com/AhmedAbdulrahman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmedAbdulrahman/webpack-build-setup/issues"
+  },
+  "homepage": "https://github.com/AhmedAbdulrahman/webpack-build-setup#readme"
+}
